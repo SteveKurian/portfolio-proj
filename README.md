@@ -1,6 +1,6 @@
 Personal Portfolio Website (archived)
 
-Simple HTML/CSS files testing web develpoment. Javascript component yet to be added.
+Simple HTML/CSS files practice with web develpoment. JavaScript component yet to be added.
 ![Home page screenshot](/images/Homepage-screenshot.png)
 
 Run demo:
